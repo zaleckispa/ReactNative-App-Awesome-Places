@@ -1,16 +1,16 @@
 ### `ReactNative-App-Awesome-Places`
 
-Fully working React Native App development, which includes:
-
-The core concepts and theory
-How to use React, JavaScript and native components
-Understand how to navigate in React Native apps
-A closer look at styling and animating React Native apps
-Instructions on how to use third-party libraries in your React Native app
-Detailed examples on how to use maps or an image picker
-A full user authentication flow
-How to connect to a backend server from your app
-Debugging instructions
+Fully working React Native App development, which includes:<br>
+<br>
+The core concepts and theory<br>
+How to use React, JavaScript and native components<br>
+Understand how to navigate in React Native apps<br>
+A closer look at styling and animating React Native apps<br>
+Instructions on how to use third-party libraries in your React Native app<br>
+Detailed examples on how to use maps or an image picker<br>
+A full user authentication flow<br>
+How to connect to a backend server from your app<br>
+Debugging instructions<br>
 
 Course which I took and absolutely recommend to everyone:<br>
 [React Native - The Practical Guide](https://www.udemy.com/react-native-the-practical-guide).
